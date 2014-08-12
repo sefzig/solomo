@@ -1,0 +1,47 @@
+ /* Allgemein */
+    body {
+       margin: 0px;
+       padding: 0px;
+    /* background: transparent; */
+    /* font-family: "Din Text Pro Regular", Arial, sans-serif; */
+       font-size-adjust:0.5; 
+       font-weight:normal; 
+       font-style:normal;
+       font-size: 11px;
+    /* color: #000000; */
+	 }
+
+ /* Layout */
+    html, body, #umschliessung {
+       width: 100%;
+       height:100%;
+	 }
+    #umschliessung > #kopf,
+    #umschliessung > #inhalt,
+    #umschliessung > #fuss {
+		 position: fixed;
+		 left: 0px;
+		 right: 0px;
+	 /* background: white; */
+	 }
+
+ /* Kopfzeile */
+    #umschliessung > #kopf {
+	    top: 0px;
+		 height: 18px;
+		 padding: 20px;
+	 /* background: red; */
+	 }
+
+ /* Inhalt */
+    #umschliessung > #inhalt {
+	 /* background: white; */
+	 }
+
+ /* Fusszeile */
+    #umschliessung > #fuss {
+		 bottom: 0px;
+		 height: 18px;
+		 padding: 20px;
+	 /* background: red; */
+	 }

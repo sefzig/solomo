@@ -4,10 +4,12 @@ Solomo
 Programme zur Verbindung von Orten/Gegenständen/Offlinemedien mit digitalen Funktionen. Die Programme [Chat](https://github.com/sefzig/solomo-chat/blob/master/README.md), [Daumen](https://github.com/sefzig/solomo-daumen/blob/master/README.md) und [Konfig](https://github.com/sefzig/solomo-konfig/blob/master/README.md) liegen hier als einzelne Projekte vor, da sie (außerhalb von Github) eigenständig weiterleben. Das die Programme verbindende Element ist die [Druckvorlage](https://github.com/sefzig/solomo-druck/blob/master/README.md), mit der massenweise individualisierte QR Codes (QR u.a. als "Brückentechnologie") erzeugt werden können. 
 
 <pre>So·lo·mo: Sozial, lokal und mobil</pre>
-* [solomo-chat](https://github.com/sefzig/solomo-chat/blob/master/README.md) 
-* [solomo-daumen](https://github.com/sefzig/solomo-daumen/blob/master/README.md) 
-* [solomo-druck](https://github.com/sefzig/solomo-druck/blob/master/README.md) 
-* [solomo-konfig](https://github.com/sefzig/solomo-konfig/blob/master/README.md) 
+
+Veröffentlichte Programme:
+* [Solomo Chat](https://github.com/sefzig/solomo-chat/blob/master/README.md) 
+* [Solomo Daumen](https://github.com/sefzig/solomo-daumen/blob/master/README.md) 
+* [Solomo Druck](https://github.com/sefzig/solomo-druck/blob/master/README.md) 
+* [Solomo Konfig](https://github.com/sefzig/solomo-konfig/blob/master/README.md) 
 
 ## Chat
 
